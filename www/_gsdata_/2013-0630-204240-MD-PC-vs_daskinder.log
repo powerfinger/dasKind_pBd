@@ -1,0 +1,97 @@
+2013-06-30 20:42:40: -- vs_daskinder: ANALYSIS started by User on 'MD-PC' (GoodSync 9.4.9.9)
+2013-06-30 20:42:40: ~Mark\Documents\GitHub\dasKind_pBd\www (C:\Users\Mark\Documents\GitHub\dasKind_pBd\www) <-> ~Mark\Documents\Github_vs\dasKind_pBd\www (C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www)
+2013-06-30 20:42:40: L: Files: 21 (excluded 2). Folders: 2 (excluded 1). C: NTFS, Free: 484 MB, Total: 220 GB
+2013-06-30 20:42:40: R: State file does not exist: C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\_gsdata_\_file_state._gs
+2013-06-30 20:42:40: R: No State File found, New State will be built
+2013-06-30 20:42:40: R: Files: 34 (excluded 3). Folders: 7 (excluded 0). C: NTFS, Free: 484 MB, Total: 220 GB
+2013-06-30 20:42:40: /bin: Conflict: New files that differ
+2013-06-30 20:42:40: /default_dasKinderMain.js: Conflict: New files that differ
+2013-06-30 20:42:40: /index.html: Conflict: New files that differ
+2013-06-30 20:42:40: /lib/app.js: Conflict: New files that differ
+2013-06-30 20:42:40: /lib/handlebars.js: Conflict: New files that differ
+2013-06-30 20:42:40: /lib/iscroll.js: Conflict: New files that differ
+2013-06-30 20:42:40: /lib/jqplot.barRenderer.min.js: Conflict: New files that differ
+2013-06-30 20:42:40: /lib/jqplot.categoryAxisRenderer.min.js: Conflict: New files that differ
+2013-06-30 20:42:40: /lib/jqplot.pieRenderer.min.js: Conflict: New files that differ
+2013-06-30 20:42:40: /lib/jquery-1.9.1.min.js: Conflict: New files that differ
+2013-06-30 20:42:40: /lib/jquery.jqplot.min.js: Conflict: New files that differ
+2013-06-30 20:42:40: /lib/jquery.mobile-1.3.1.min.js: Conflict: New files that differ
+2013-06-30 20:42:40: /lib/pages.js: Conflict: New files that differ
+2013-06-30 20:42:40: /lib/underscore-1.4.4.min.js: Conflict: New files that differ
+2013-06-30 20:42:40: /media/01_Susies_dnc_09-05-12.mp3: Conflict: New files that differ
+2013-06-30 20:42:40: /media/02-War Master 01-16-13.mp3: Conflict: New files that differ
+2013-06-30 20:42:40: /media/FRONT.jpg: Conflict: New files that differ
+2013-06-30 20:42:40: /obj: Conflict: New files that differ
+2013-06-30 20:42:40: /obj/Debug: Conflict: New files that differ
+2013-06-30 20:42:40: /obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache: Conflict: New files that differ
+2013-06-30 20:42:40: /obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs: Conflict: New files that differ
+2013-06-30 20:42:40: /obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs: Conflict: New files that differ
+2013-06-30 20:42:40: /obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs: Conflict: New files that differ
+2013-06-30 20:42:40: /obj/Debug/TempPE: Conflict: New files that differ
+2013-06-30 20:42:40: /packages.config: Conflict: New files that differ
+2013-06-30 20:42:40: /Properties: Conflict: New files that differ
+2013-06-30 20:42:40: /readme.rd: Conflict: New files that differ
+2013-06-30 20:42:40: /web.config: Conflict: New files that differ
+2013-06-30 20:42:40: /web.Debug.config: Conflict: New files that differ
+2013-06-30 20:42:40: /web.Release.config: Conflict: New files that differ
+2013-06-30 20:42:40: /bin/daskind_p8d.dll: Parent folder conflict propagated down to children
+2013-06-30 20:42:40: /bin/daskind_p8d.pdb: Parent folder conflict propagated down to children
+2013-06-30 20:42:40: /obj/Debug/daskind_p8d.csproj.FileListAbsolute.txt: Parent folder conflict propagated down to children
+2013-06-30 20:42:40: /obj/Debug/daskind_p8d.csprojResolveAssemblyReference.cache: Parent folder conflict propagated down to children
+2013-06-30 20:42:40: /obj/Debug/daskind_p8d.dll: Parent folder conflict propagated down to children
+2013-06-30 20:42:40: /obj/Debug/daskind_p8d.pdb: Parent folder conflict propagated down to children
+2013-06-30 20:42:40: Analyze has finished with Conflicts. Resolve Conflicts by selecting the correct sync direction, then click Sync
+2013-06-30 20:42:40: Changes: 43, Conflicts: 36, CopyTime: 0, CopyState: 5/6, Errors: 0
+2013-06-30 20:42:40: Left to Right: Copy File: 4 Copy State: 5 
+2013-06-30 20:42:40: Right to Left: Copy File: 3 
+2013-06-30 20:42:40: -- Analysis Completed. Time 00:00:00, Speed: Many files/s
+2013-06-30 20:42:40: 
+2013-06-30 20:44:32: New _gsdata_ folder(s) created, so rescan all job folders for their ghosts
+2013-06-30 20:44:32: == vs_daskinder: SYNC started by User on 'MD-PC'
+2013-06-30 20:44:32: ~Mark\Documents\GitHub\dasKind_pBd\www (C:\Users\Mark\Documents\GitHub\dasKind_pBd\www) <-> ~Mark\Documents\Github_vs\dasKind_pBd\www (C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www)
+2013-06-30 20:44:32: Create Folder 'C:\Users\Mark\Documents\GitHub\dasKind_pBd\www\bin' (User Action)
+2013-06-30 20:44:32: Create Folder 'C:\Users\Mark\Documents\GitHub\dasKind_pBd\www\obj' (User Action)
+2013-06-30 20:44:32: Create Folder 'C:\Users\Mark\Documents\GitHub\dasKind_pBd\www\obj\Debug' (User Action)
+2013-06-30 20:44:32: Create Folder 'C:\Users\Mark\Documents\GitHub\dasKind_pBd\www\obj\Debug\TempPE' (User Action)
+2013-06-30 20:44:32: Create Folder 'C:\Users\Mark\Documents\GitHub\dasKind_pBd\www\Properties' (User Action)
+2013-06-30 20:44:33: Copy New 'C:\Users\Mark\Documents\GitHub\dasKind_pBd\www\audio-nesim.html' -> 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\audio-nesim.html'
+2013-06-30 20:44:33: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\bin\daskind_p8d.dll' -> 'C:\Users\Mark\Documents\GitHub\dasKind_pBd\www\bin\daskind_p8d.dll' (User Action)
+2013-06-30 20:44:33: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\bin\daskind_p8d.pdb' -> 'C:\Users\Mark\Documents\GitHub\dasKind_pBd\www\bin\daskind_p8d.pdb' (User Action)
+2013-06-30 20:44:33: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\daskind_p8d.csproj' -> 'C:\Users\Mark\Documents\GitHub\dasKind_pBd\www\daskind_p8d.csproj'
+2013-06-30 20:44:33: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\daskind_p8d.csproj.user' -> 'C:\Users\Mark\Documents\GitHub\dasKind_pBd\www\daskind_p8d.csproj.user'
+2013-06-30 20:44:33: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\daskind_p8d.sln' -> 'C:\Users\Mark\Documents\GitHub\dasKind_pBd\www\daskind_p8d.sln'
+2013-06-30 20:44:33: Copy Over 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\default_dasKinderMain.js' -> 'C:\Users\Mark\Documents\GitHub\dasKind_pBd\www\default_dasKinderMain.js' (User Action)
+2013-06-30 20:44:33: Copy New 'C:\Users\Mark\Documents\GitHub\dasKind_pBd\www\index-nesim.html' -> 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\index-nesim.html'
+2013-06-30 20:44:33: Copy Over 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\index.html' -> 'C:\Users\Mark\Documents\GitHub\dasKind_pBd\www\index.html' (User Action)
+2013-06-30 20:44:33: Copy New 'C:\Users\Mark\Documents\GitHub\dasKind_pBd\www\index2.html' -> 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\index2.html'
+2013-06-30 20:44:33: Copy Over 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\lib\app.js' -> 'C:\Users\Mark\Documents\GitHub\dasKind_pBd\www\lib\app.js' (User Action)
+2013-06-30 20:44:33: Copy Over 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\lib\handlebars.js' -> 'C:\Users\Mark\Documents\GitHub\dasKind_pBd\www\lib\handlebars.js' (User Action)
+2013-06-30 20:44:33: Copy Over 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\lib\iscroll.js' -> 'C:\Users\Mark\Documents\GitHub\dasKind_pBd\www\lib\iscroll.js' (User Action)
+2013-06-30 20:44:33: Copy Over 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\lib\jqplot.barRenderer.min.js' -> 'C:\Users\Mark\Documents\GitHub\dasKind_pBd\www\lib\jqplot.barRenderer.min.js' (User Action)
+2013-06-30 20:44:33: Copy Over 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\lib\jqplot.categoryAxisRenderer.min.js' -> 'C:\Users\Mark\Documents\GitHub\dasKind_pBd\www\lib\jqplot.categoryAxisRenderer.min.js' (User Action)
+2013-06-30 20:44:33: Copy Over 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\lib\jqplot.pieRenderer.min.js' -> 'C:\Users\Mark\Documents\GitHub\dasKind_pBd\www\lib\jqplot.pieRenderer.min.js' (User Action)
+2013-06-30 20:44:33: Copy Over 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\lib\jquery-1.9.1.min.js' -> 'C:\Users\Mark\Documents\GitHub\dasKind_pBd\www\lib\jquery-1.9.1.min.js' (User Action)
+2013-06-30 20:44:34: Copy Over 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\lib\jquery.jqplot.min.js' -> 'C:\Users\Mark\Documents\GitHub\dasKind_pBd\www\lib\jquery.jqplot.min.js' (User Action)
+2013-06-30 20:44:34: Copy Over 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\lib\jquery.mobile-1.3.1.min.js' -> 'C:\Users\Mark\Documents\GitHub\dasKind_pBd\www\lib\jquery.mobile-1.3.1.min.js' (User Action)
+2013-06-30 20:44:34: Copy Over 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\lib\pages.js' -> 'C:\Users\Mark\Documents\GitHub\dasKind_pBd\www\lib\pages.js' (User Action)
+2013-06-30 20:44:34: Copy Over 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\lib\underscore-1.4.4.min.js' -> 'C:\Users\Mark\Documents\GitHub\dasKind_pBd\www\lib\underscore-1.4.4.min.js' (User Action)
+2013-06-30 20:44:35: Copy Over 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\media\01_Susies_dnc_09-05-12.mp3' -> 'C:\Users\Mark\Documents\GitHub\dasKind_pBd\www\media\01_Susies_dnc_09-05-12.mp3' (User Action)
+2013-06-30 20:44:35: Copy Over 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\media\02-War Master 01-16-13.mp3' -> 'C:\Users\Mark\Documents\GitHub\dasKind_pBd\www\media\02-War Master 01-16-13.mp3' (User Action)
+2013-06-30 20:44:35: Copy Over 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\media\FRONT.jpg' -> 'C:\Users\Mark\Documents\GitHub\dasKind_pBd\www\media\FRONT.jpg' (User Action)
+2013-06-30 20:44:35: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\obj\Debug\daskind_p8d.csproj.FileListAbsolute.txt' -> 'C:\Users\Mark\Documents\GitHub\dasKind_pBd\www\obj\Debug\daskind_p8d.csproj.FileListAbsolute.txt' (User Action)
+2013-06-30 20:44:35: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\obj\Debug\daskind_p8d.csprojResolveAssemblyReference.cache' -> 'C:\Users\Mark\Documents\GitHub\dasKind_pBd\www\obj\Debug\daskind_p8d.csprojResolveAssemblyReference.cache' (User Action)
+2013-06-30 20:44:35: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\obj\Debug\daskind_p8d.dll' -> 'C:\Users\Mark\Documents\GitHub\dasKind_pBd\www\obj\Debug\daskind_p8d.dll' (User Action)
+2013-06-30 20:44:35: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\obj\Debug\daskind_p8d.pdb' -> 'C:\Users\Mark\Documents\GitHub\dasKind_pBd\www\obj\Debug\daskind_p8d.pdb' (User Action)
+2013-06-30 20:44:35: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache' -> 'C:\Users\Mark\Documents\GitHub\dasKind_pBd\www\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache' (User Action)
+2013-06-30 20:44:35: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs' -> 'C:\Users\Mark\Documents\GitHub\dasKind_pBd\www\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs' (User Action)
+2013-06-30 20:44:35: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs' -> 'C:\Users\Mark\Documents\GitHub\dasKind_pBd\www\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs' (User Action)
+2013-06-30 20:44:35: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs' -> 'C:\Users\Mark\Documents\GitHub\dasKind_pBd\www\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs' (User Action)
+2013-06-30 20:44:35: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\packages.config' -> 'C:\Users\Mark\Documents\GitHub\dasKind_pBd\www\packages.config' (User Action)
+2013-06-30 20:44:35: Copy Over 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\readme.rd' -> 'C:\Users\Mark\Documents\GitHub\dasKind_pBd\www\readme.rd' (User Action)
+2013-06-30 20:44:35: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\web.config' -> 'C:\Users\Mark\Documents\GitHub\dasKind_pBd\www\web.config' (User Action)
+2013-06-30 20:44:35: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\web.Debug.config' -> 'C:\Users\Mark\Documents\GitHub\dasKind_pBd\www\web.Debug.config' (User Action)
+2013-06-30 20:44:35: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\web.Release.config' -> 'C:\Users\Mark\Documents\GitHub\dasKind_pBd\www\web.Release.config' (User Action)
+2013-06-30 20:44:35: Copy New 'C:\Users\Mark\Documents\GitHub\dasKind_pBd\www\xxindex-nesim.html' -> 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\xxindex-nesim.html'
+2013-06-30 20:44:35: Items Synced OK: 54, Errors: 0
+2013-06-30 20:44:35: == Sync Completed. Time: 00:00:03, Speed: 4.68 MB/s (418 KB/s)
+2013-06-30 20:44:35: 
