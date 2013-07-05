@@ -3,3 +3,7 @@ C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\bin\daskind_p8d.pdb
 C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\obj\Debug\daskind_p8d.csprojResolveAssemblyReference.cache
 C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\obj\Debug\daskind_p8d.dll
 C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\obj\Debug\daskind_p8d.pdb
+C:\Users\Flying\Documents\Github_vs\dasKind_pBd\www\bin\daskind_p8d.dll
+C:\Users\Flying\Documents\Github_vs\dasKind_pBd\www\bin\daskind_p8d.pdb
+C:\Users\Flying\Documents\Github_vs\dasKind_pBd\www\obj\Debug\daskind_p8d.dll
+C:\Users\Flying\Documents\Github_vs\dasKind_pBd\www\obj\Debug\daskind_p8d.pdb
