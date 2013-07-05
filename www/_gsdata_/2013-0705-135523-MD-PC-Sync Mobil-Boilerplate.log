@@ -1,0 +1,66 @@
+2013-07-05 13:55:23: -- Sync Mobil-Boilerplate: ANALYSIS started by User on 'MD-PC' (GoodSync 9.4.9.9)
+2013-07-05 13:55:23: ~Mark\Documents\GitHub\mobile-boilerplate-sync (C:\Users\Mark\Documents\GitHub\mobile-boilerplate-sync) <-> ~Mark\Documents\Github_vs\dasKind_pBd\www (C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www)
+2013-07-05 13:55:23: L: Files: 50 (excluded 0). Folders: 11 (excluded 2). C: NTFS, Free: 180 MB, Total: 220 GB
+2013-07-05 13:55:23: R: Files: 80 (excluded 3). Folders: 18 (excluded 1). C: NTFS, Free: 180 MB, Total: 220 GB
+2013-07-05 13:55:23: Changes: 47, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0
+2013-07-05 13:55:23: Left to Right: Copy File: 5 
+2013-07-05 13:55:23: Right to Left: Copy File: 42 
+2013-07-05 13:55:23: -- Analysis Completed. Time 00:00:00, Speed: Many files/s
+2013-07-05 13:55:23: 
+2013-07-05 13:55:54: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /.gitattributes
+2013-07-05 13:55:54: Done.
+2013-07-05 13:55:56: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /.gitignore
+2013-07-05 13:55:56: Done.
+2013-07-05 13:55:57: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /.htaccess
+2013-07-05 13:55:57: Done.
+2013-07-05 13:56:17: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /CHANGELOG.md
+2013-07-05 13:56:17: Done.
+2013-07-05 13:56:19: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /CONTRIBUTING.md
+2013-07-05 13:56:19: Done.
+2013-07-05 13:56:41: == Sync Mobil-Boilerplate: SYNC started by User on 'MD-PC'
+2013-07-05 13:56:41: ~Mark\Documents\GitHub\mobile-boilerplate-sync (C:\Users\Mark\Documents\GitHub\mobile-boilerplate-sync) <-> ~Mark\Documents\Github_vs\dasKind_pBd\www (C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www)
+2013-07-05 13:56:41: Create Folder 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate-sync\bin'
+2013-07-05 13:56:41: Create Folder 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate-sync\lib'
+2013-07-05 13:56:41: Create Folder 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate-sync\media'
+2013-07-05 13:56:41: Create Folder 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate-sync\obj'
+2013-07-05 13:56:41: Create Folder 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate-sync\obj\Debug'
+2013-07-05 13:56:41: Create Folder 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate-sync\obj\Debug\TempPE'
+2013-07-05 13:56:41: Create Folder 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate-sync\Properties'
+2013-07-05 13:56:41: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\bin\daskind_p8d.dll' -> 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate-sync\bin\daskind_p8d.dll'
+2013-07-05 13:56:41: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\bin\daskind_p8d.pdb' -> 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate-sync\bin\daskind_p8d.pdb'
+2013-07-05 13:56:41: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\daskind_p8d.csproj' -> 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate-sync\daskind_p8d.csproj'
+2013-07-05 13:56:41: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\daskind_p8d.csproj.user' -> 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate-sync\daskind_p8d.csproj.user'
+2013-07-05 13:56:41: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\daskind_p8d.sln' -> 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate-sync\daskind_p8d.sln'
+2013-07-05 13:56:41: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\default_dasKinderMain.js' -> 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate-sync\default_dasKinderMain.js'
+2013-07-05 13:56:41: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\index.html' -> 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate-sync\index.html'
+2013-07-05 13:56:41: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\index_daskinder.html' -> 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate-sync\index_daskinder.html'
+2013-07-05 13:56:41: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\lib\app.js' -> 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate-sync\lib\app.js'
+2013-07-05 13:56:41: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\lib\handlebars.js' -> 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate-sync\lib\handlebars.js'
+2013-07-05 13:56:41: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\lib\iscroll.js' -> 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate-sync\lib\iscroll.js'
+2013-07-05 13:56:42: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\lib\jqplot.barRenderer.min.js' -> 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate-sync\lib\jqplot.barRenderer.min.js'
+2013-07-05 13:56:42: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\lib\jqplot.categoryAxisRenderer.min.js' -> 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate-sync\lib\jqplot.categoryAxisRenderer.min.js'
+2013-07-05 13:56:42: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\lib\jqplot.pieRenderer.min.js' -> 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate-sync\lib\jqplot.pieRenderer.min.js'
+2013-07-05 13:56:42: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\lib\jquery-1.9.1.min.js' -> 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate-sync\lib\jquery-1.9.1.min.js'
+2013-07-05 13:56:42: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\lib\jquery.jqplot.min.js' -> 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate-sync\lib\jquery.jqplot.min.js'
+2013-07-05 13:56:42: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\lib\jquery.mobile-1.3.1.min.js' -> 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate-sync\lib\jquery.mobile-1.3.1.min.js'
+2013-07-05 13:56:42: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\lib\pages.js' -> 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate-sync\lib\pages.js'
+2013-07-05 13:56:42: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\lib\underscore-1.4.4.min.js' -> 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate-sync\lib\underscore-1.4.4.min.js'
+2013-07-05 13:56:42: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\media\01_Susies_dnc_09-05-12.mp3' -> 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate-sync\media\01_Susies_dnc_09-05-12.mp3'
+2013-07-05 13:56:42: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\media\02-War Master 01-16-13.mp3' -> 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate-sync\media\02-War Master 01-16-13.mp3'
+2013-07-05 13:56:42: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\media\FRONT.jpg' -> 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate-sync\media\FRONT.jpg'
+2013-07-05 13:56:43: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\obj\Debug\daskind_p8d.csproj.FileListAbsolute.txt' -> 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate-sync\obj\Debug\daskind_p8d.csproj.FileListAbsolute.txt'
+2013-07-05 13:56:43: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\obj\Debug\daskind_p8d.csprojResolveAssemblyReference.cache' -> 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate-sync\obj\Debug\daskind_p8d.csprojResolveAssemblyReference.cache'
+2013-07-05 13:56:43: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\obj\Debug\daskind_p8d.dll' -> 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate-sync\obj\Debug\daskind_p8d.dll'
+2013-07-05 13:56:43: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\obj\Debug\daskind_p8d.pdb' -> 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate-sync\obj\Debug\daskind_p8d.pdb'
+2013-07-05 13:56:43: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache' -> 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate-sync\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache'
+2013-07-05 13:56:43: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs' -> 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate-sync\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs'
+2013-07-05 13:56:43: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs' -> 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate-sync\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs'
+2013-07-05 13:56:43: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs' -> 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate-sync\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs'
+2013-07-05 13:56:43: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\packages.config' -> 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate-sync\packages.config'
+2013-07-05 13:56:43: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\readme.rd' -> 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate-sync\readme.rd'
+2013-07-05 13:56:43: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\web.config' -> 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate-sync\web.config'
+2013-07-05 13:56:43: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\web.Debug.config' -> 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate-sync\web.Debug.config'
+2013-07-05 13:56:43: Copy New 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\web.Release.config' -> 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate-sync\web.Release.config'
+2013-07-05 13:56:44: Items Synced OK: 42, Errors: 0
+2013-07-05 13:56:44: == Sync Completed. Time: 00:00:03, Speed: 7.02 MB/s (139 KB/s)
+2013-07-05 13:56:44: 

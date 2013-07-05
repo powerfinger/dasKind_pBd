@@ -1,0 +1,164 @@
+2013-07-05 13:12:15: -- Integrate Mobile Template: ANALYSIS started by User on 'MD-PC' (GoodSync 9.4.9.9)
+2013-07-05 13:12:15: ~Mark\Documents\GitHub\mobile-boilerplate (C:\Users\Mark\Documents\GitHub\mobile-boilerplate) =PropDels=> ~Mark\Documents\Github_vs\dasKind_pBd\www (C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www), CopyCreateTime
+2013-07-05 13:12:15: L: Files: 72 (excluded 0). Folders: 28 (excluded 1). C: NTFS, Free: 195 MB, Total: 220 GB
+2013-07-05 13:12:15: R: Files: 54 (excluded 2). Folders: 11 (excluded 1). C: NTFS, Free: 195 MB, Total: 220 GB
+2013-07-05 13:12:15: Changes: 122, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0
+2013-07-05 13:12:15: Left to Right: Copy File: 78 Delete File: 44 
+2013-07-05 13:12:15: -- Analysis Completed. Time 00:00:00, Speed: Many files/s
+2013-07-05 13:12:15: 
+2013-07-05 13:12:41: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /bin
+2013-07-05 13:12:41: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /bin/daskind_p8d.dll
+2013-07-05 13:12:41: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /bin/daskind_p8d.pdb
+2013-07-05 13:12:41: Done.
+2013-07-05 13:12:47: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /.git
+2013-07-05 13:12:47: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /.git/branches
+2013-07-05 13:12:47: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /.git/config
+2013-07-05 13:12:47: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /.git/description
+2013-07-05 13:12:47: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /.git/FETCH_HEAD
+2013-07-05 13:12:47: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /.git/HEAD
+2013-07-05 13:12:47: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /.git/hooks
+2013-07-05 13:12:47: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /.git/hooks/applypatch-msg.sample
+2013-07-05 13:12:47: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /.git/hooks/commit-msg.sample
+2013-07-05 13:12:47: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /.git/hooks/post-update.sample
+2013-07-05 13:12:47: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /.git/hooks/pre-applypatch.sample
+2013-07-05 13:12:47: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /.git/hooks/pre-commit.sample
+2013-07-05 13:12:47: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /.git/hooks/pre-rebase.sample
+2013-07-05 13:12:47: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /.git/hooks/prepare-commit-msg.sample
+2013-07-05 13:12:47: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /.git/hooks/update.sample
+2013-07-05 13:12:47: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /.git/index
+2013-07-05 13:12:47: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /.git/info
+2013-07-05 13:12:47: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /.git/info/exclude
+2013-07-05 13:12:47: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /.git/logs
+2013-07-05 13:12:47: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /.git/logs/HEAD
+2013-07-05 13:12:47: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /.git/logs/refs
+2013-07-05 13:12:47: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /.git/logs/refs/heads
+2013-07-05 13:12:47: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /.git/logs/refs/heads/master
+2013-07-05 13:12:47: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /.git/logs/refs/remotes
+2013-07-05 13:12:47: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /.git/logs/refs/remotes/origin
+2013-07-05 13:12:47: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /.git/logs/refs/remotes/origin/HEAD
+2013-07-05 13:12:47: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /.git/objects
+2013-07-05 13:12:47: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /.git/objects/info
+2013-07-05 13:12:47: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /.git/objects/pack
+2013-07-05 13:12:47: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /.git/objects/pack/pack-c9a870431e95da545420f49f30af11d2ce4bb318.idx
+2013-07-05 13:12:47: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /.git/objects/pack/pack-c9a870431e95da545420f49f30af11d2ce4bb318.pack
+2013-07-05 13:12:47: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /.git/packed-refs
+2013-07-05 13:12:47: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /.git/refs
+2013-07-05 13:12:47: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /.git/refs/heads
+2013-07-05 13:12:47: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /.git/refs/heads/master
+2013-07-05 13:12:47: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /.git/refs/remotes
+2013-07-05 13:12:47: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /.git/refs/remotes/origin
+2013-07-05 13:12:47: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /.git/refs/remotes/origin/HEAD
+2013-07-05 13:12:47: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /.git/refs/tags
+2013-07-05 13:12:47: Done.
+2013-07-05 13:12:48: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /.gitattributes
+2013-07-05 13:12:48: Done.
+2013-07-05 13:12:49: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /.gitignore
+2013-07-05 13:12:49: Done.
+2013-07-05 13:12:51: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /.htaccess
+2013-07-05 13:12:51: Done.
+2013-07-05 13:12:54: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /CHANGELOG.md
+2013-07-05 13:12:54: Done.
+2013-07-05 13:12:56: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /CONTRIBUTING.md
+2013-07-05 13:12:56: Done.
+2013-07-05 13:13:07: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /daskind_p8d.csproj
+2013-07-05 13:13:07: Done.
+2013-07-05 13:13:13: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /daskind_p8d.csproj.user
+2013-07-05 13:13:13: Done.
+2013-07-05 13:13:15: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /daskind_p8d.sln
+2013-07-05 13:13:15: Done.
+2013-07-05 13:13:18: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /daskind_p8d.v11.suo
+2013-07-05 13:13:18: Done.
+2013-07-05 13:13:25: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /default_dasKinderMain.js
+2013-07-05 13:13:25: Done.
+2013-07-05 13:13:41: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /index.html
+2013-07-05 13:13:41: Done.
+2013-07-05 13:13:43: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /index_daskinder.html
+2013-07-05 13:13:43: Done.
+2013-07-05 13:13:45: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /favicon.ico
+2013-07-05 13:13:45: Done.
+2013-07-05 13:13:47: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /humans.txt
+2013-07-05 13:13:47: Done.
+2013-07-05 13:13:53: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /js
+2013-07-05 13:13:53: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /js/helper.js
+2013-07-05 13:13:53: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /js/main.js
+2013-07-05 13:13:53: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /js/plugins.js
+2013-07-05 13:13:53: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /js/vendor
+2013-07-05 13:13:53: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /js/vendor/jquery-2.0.2.min.js
+2013-07-05 13:13:53: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /js/vendor/modernizr-2.6.2.min.js
+2013-07-05 13:13:53: Done.
+2013-07-05 13:14:02: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /lib
+2013-07-05 13:14:02: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /lib/app.js
+2013-07-05 13:14:02: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /lib/handlebars.js
+2013-07-05 13:14:02: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /lib/iscroll.js
+2013-07-05 13:14:02: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /lib/jqplot.barRenderer.min.js
+2013-07-05 13:14:02: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /lib/jqplot.categoryAxisRenderer.min.js
+2013-07-05 13:14:02: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /lib/jqplot.pieRenderer.min.js
+2013-07-05 13:14:02: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /lib/jquery-1.9.1.min.js
+2013-07-05 13:14:02: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /lib/jquery.jqplot.min.js
+2013-07-05 13:14:02: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /lib/jquery.mobile-1.3.1.min.js
+2013-07-05 13:14:02: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /lib/pages.js
+2013-07-05 13:14:02: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /lib/underscore-1.4.4.min.js
+2013-07-05 13:14:02: Done.
+2013-07-05 13:14:11: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /media
+2013-07-05 13:14:11: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /media/.DS_Store
+2013-07-05 13:14:11: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /media/01_Susies_dnc_09-05-12.mp3
+2013-07-05 13:14:11: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /media/02-War Master 01-16-13.mp3
+2013-07-05 13:14:11: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /media/FRONT.jpg
+2013-07-05 13:14:11: Done.
+2013-07-05 13:14:23: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /obj
+2013-07-05 13:14:23: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /obj/Debug
+2013-07-05 13:14:23: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /obj/Debug/daskind_p8d.csproj.FileListAbsolute.txt
+2013-07-05 13:14:23: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /obj/Debug/daskind_p8d.csprojResolveAssemblyReference.cache
+2013-07-05 13:14:23: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /obj/Debug/daskind_p8d.dll
+2013-07-05 13:14:23: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /obj/Debug/daskind_p8d.pdb
+2013-07-05 13:14:23: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+2013-07-05 13:14:23: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+2013-07-05 13:14:23: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+2013-07-05 13:14:23: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+2013-07-05 13:14:23: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /obj/Debug/TempPE
+2013-07-05 13:14:23: Done.
+2013-07-05 13:14:33: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /packages.config
+2013-07-05 13:14:33: Done.
+2013-07-05 13:14:35: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /Properties
+2013-07-05 13:14:35: Done.
+2013-07-05 13:14:37: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /README.md
+2013-07-05 13:14:37: Done.
+2013-07-05 13:14:40: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /readme.rd
+2013-07-05 13:14:40: Done.
+2013-07-05 13:14:46: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /robots.txt
+2013-07-05 13:14:46: Done.
+2013-07-05 13:14:51: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /tools
+2013-07-05 13:14:51: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /tools/mobile-bookmark-bubble
+2013-07-05 13:14:51: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /tools/mobile-bookmark-bubble/bookmark_bubble.js
+2013-07-05 13:14:51: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /tools/mobile-bookmark-bubble/COPYING
+2013-07-05 13:14:51: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /tools/mobile-bookmark-bubble/example
+2013-07-05 13:14:51: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /tools/mobile-bookmark-bubble/example/example.html
+2013-07-05 13:14:51: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /tools/mobile-bookmark-bubble/example/example.js
+2013-07-05 13:14:51: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /tools/mobile-bookmark-bubble/images
+2013-07-05 13:14:51: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /tools/mobile-bookmark-bubble/images/arrow.png
+2013-07-05 13:14:51: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /tools/mobile-bookmark-bubble/images/close.png
+2013-07-05 13:14:51: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /tools/mobile-bookmark-bubble/images/generate_base64_images
+2013-07-05 13:14:51: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /tools/mobile-bookmark-bubble/images/icon_calendar.png
+2013-07-05 13:14:51: Done.
+2013-07-05 13:15:04: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /web.config
+2013-07-05 13:15:04: Done.
+2013-07-05 13:15:05: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /web.Debug.config
+2013-07-05 13:15:05: Done.
+2013-07-05 13:15:07: === User Changed Action from 'COPY_LEFT_TO_RIGHT' to 'NO_COPY' on item /web.Release.config
+2013-07-05 13:15:07: Done.
+2013-07-05 13:15:34: == Integrate Mobile Template: SYNC started by User on 'MD-PC'
+2013-07-05 13:15:34: ~Mark\Documents\GitHub\mobile-boilerplate (C:\Users\Mark\Documents\GitHub\mobile-boilerplate) =PropDels=> ~Mark\Documents\Github_vs\dasKind_pBd\www (C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www), CopyCreateTime
+2013-07-05 13:15:34: Create Folder 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\doc'
+2013-07-05 13:15:34: Copy New 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate\crossdomain.xml' -> 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\crossdomain.xml'
+2013-07-05 13:15:35: Copy New 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate\doc\crossdomain.md' -> 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\doc\crossdomain.md'
+2013-07-05 13:15:35: Copy New 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate\doc\css.md' -> 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\doc\css.md'
+2013-07-05 13:15:35: Copy New 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate\doc\extend.md' -> 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\doc\extend.md'
+2013-07-05 13:15:35: Copy New 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate\doc\faq.md' -> 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\doc\faq.md'
+2013-07-05 13:15:35: Copy New 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate\doc\html.md' -> 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\doc\html.md'
+2013-07-05 13:15:35: Copy New 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate\doc\js.md' -> 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\doc\js.md'
+2013-07-05 13:15:35: Copy New 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate\doc\misc.md' -> 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\doc\misc.md'
+2013-07-05 13:15:36: Copy New 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate\doc\README.md' -> 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\doc\README.md'
+2013-07-05 13:15:36: Copy New 'C:\Users\Mark\Documents\GitHub\mobile-boilerplate\doc\usage.md' -> 'C:\Users\Mark\Documents\Github_vs\dasKind_pBd\www\doc\usage.md'
+2013-07-05 13:15:36: Items Synced OK: 11, Errors: 0
+2013-07-05 13:15:36: == Sync Completed. Time: 00:00:02, Speed: 19.2 KB/s (29.1 KB/s)
+2013-07-05 13:15:36: 

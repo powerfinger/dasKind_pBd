@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html lang=en>
+<head><meta http-equiv=content-type content="text/html; charset=UTF-8">
+<title>Songs Between Us by Das Kinder</title><meta name=description content="BandofMusicians .Net - Audio Test Page">
+ <!-- WinJS references -->
+    <link rel="stylesheet" href="//Microsoft.WinJS.1.0/css/ui-light.css" />
+    <script src="//Microsoft.WinJS.1.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0/js/ui.js"></script>
+	
+	 <!-- SDK sample framework references -->
+    <!-- <link rel="stylesheet" href="/sample-utils/sample-utils.css" />
+    <link rel="stylesheet" href="/css/default.css" />-->
+ <style type="text/css">
+.auto-style1 {
+	vertical-align: baseline;
+}
+</style>
+ </head>
+ <body role="application">
+<div class=main_right><header><div class=main_heading>
+<h1>Songs Between Us by Das Kinder<br>&nbsp;</h1></div></header><div class=main_document><article><h3>HTML5 Audio Test Page</h3>
+<p>Welcome to the BoM HTML5 audio test page!</p>
+<img   id="coverArt"   src="FRONT.jpg" usemap=#SBUimagemap class="auto-style1" />
+		 <map name=SBUimagemap>
+             <!--<area shape=rect coords=80,114,683,596 href="http://en.wikipedia.org/wiki/G">-->
+<area id="track1" shape=rect coords="200, 58, 275, 142">
+<area id="track2" shape=rect coords="284, 61, 359, 146">
+<area id="track3" shape=rect coords="202, 145, 272, 220">
+<area id="track4" shape=rect coords="284, 151, 359, 226">
+</map>
+<!-- <p>Our site supports MP3 (.mp3) and OGG Vorbis (.ogg) formats.  </p>
+ -->
+<h3>Audio Test 1</h3>
+<p>This is a simple audio sample with the player control visible.  If you can play it then your web browser supports HTML5 audio.  
+There may be a short delay while the sample downloads.</p>
+<!-- <audio controls preload=none>
+ <source src="http://www.bandofmusicians.com/mobile_album_build_0.5/www/media/01_Susies_dnc_09-05-12.mp3" type="audio/mpeg">
+HTML5 Audio not supported!
+</audio> -->
+<audio id="playback1" src="media/02-War Master 01-16-13.mp3"    controls="controls"     loop autoplay />
+<br><span id='audiospan' style='float:right;color:white;'></span><br>
+</article>
+ <script src="default_dasKinderMain.js"></script>
+</body></html>
